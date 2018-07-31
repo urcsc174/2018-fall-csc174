@@ -1,35 +1,35 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-|                | Lecture/Lab<br>(3:25 - 4:40 PM)     | Assignment<br>(in-class and homework) | Notes |
-| -------------- | ----------------------------------- | ------------------------------------- | ----- |
-| **Thu Aug 30** | **Re-introduction to the Industry** | Lab 1: Initial Portfolio Website      |       |
-| **Tue Sep 4**  |                                     |                                       |       |
-| **Thu Sep 6**  |                                     |                                       |       |
-| **Tue Sep 11** |                                     |                                       |       |
-| **Thu Sep 13** |                                     |                                       |       |
-| **Tue Sep 18** |                                     |                                       |       |
-| **Thu Sep 20** |                                     |                                       |       |
-| **Tue Sep 25** |                                     |                                       |       |
-| **Thu Sep 27** |                                     |                                       |       |
-| **Tue Oct 2**  |                                     |                                       |       |
-| **Thu Oct 4**  |                                     |                                       |       |
-| **Tue Oct 9**  |                                     |                                       |       |
-| **Thu Oct 11** |                                     |                                       |       |
-| **Tue Oct 16** | **HOLIDAY**                         |                                       |       |
-| **Thu Oct 18** |                                     |                                       |       |
-| **Tue Oct 23** |                                     |                                       |       |
-| **Thu Oct 25** |                                     |                                       |       |
-| **Tue Oct 30** |                                     |                                       |       |
-| **Thu Nov 1**  |                                     |                                       |       |
-| **Tue Nov 6**  |                                     |                                       |       |
-| **Thu Nov 8**  |                                     |                                       |       |
-| **Tue Nov 13** |                                     |                                       |       |
-| **Thu Nov 15** |                                     |                                       |       |
-| **Tue Nov 20** |                                     |                                       |       |
-| **Thu Nov 22** | **HOLIDAY**                         |                                       |       |
-| **Tue Nov 27** |                                     |                                       |       |
-| **Thu Nov 29** |                                     |                                       |       |
-| **Tue Dec 4**  |                                     |                                       |       |
-| **Thu Dec 6**  |                                     |                                       |       |
-| **Tue Dec 11** |                                     |                                       |       |
+|                | Lecture/Lab<br>(3:25 - 4:40 PM)                              | Assignment<br>(in-class and homework)                        | Notes                                                        |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Thu Aug 30** | [**Re-Introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf) | [Lab 1 Introduction to Slack](lab01-introduction-to-slack/instructions.md) | Prep content to use for in-class assignment on Tuesday, September 4 |
+| **Tue Sep 4**  |                                                              |                                                              |                                                              |
+| **Thu Sep 6**  |                                                              |                                                              |                                                              |
+| **Tue Sep 11** |                                                              |                                                              |                                                              |
+| **Thu Sep 13** |                                                              |                                                              |                                                              |
+| **Tue Sep 18** |                                                              |                                                              |                                                              |
+| **Thu Sep 20** |                                                              |                                                              |                                                              |
+| **Tue Sep 25** |                                                              |                                                              |                                                              |
+| **Thu Sep 27** |                                                              |                                                              |                                                              |
+| **Tue Oct 2**  |                                                              |                                                              |                                                              |
+| **Thu Oct 4**  |                                                              |                                                              |                                                              |
+| **Tue Oct 9**  |                                                              |                                                              |                                                              |
+| **Thu Oct 11** |                                                              |                                                              |                                                              |
+| **Tue Oct 16** | **HOLIDAY**                                                  |                                                              |                                                              |
+| **Thu Oct 18** |                                                              |                                                              |                                                              |
+| **Tue Oct 23** |                                                              |                                                              |                                                              |
+| **Thu Oct 25** |                                                              |                                                              |                                                              |
+| **Tue Oct 30** |                                                              |                                                              |                                                              |
+| **Thu Nov 1**  |                                                              |                                                              |                                                              |
+| **Tue Nov 6**  |                                                              |                                                              |                                                              |
+| **Thu Nov 8**  |                                                              |                                                              |                                                              |
+| **Tue Nov 13** |                                                              |                                                              |                                                              |
+| **Thu Nov 15** |                                                              |                                                              |                                                              |
+| **Tue Nov 20** |                                                              |                                                              |                                                              |
+| **Thu Nov 22** | **HOLIDAY**                                                  |                                                              |                                                              |
+| **Tue Nov 27** |                                                              |                                                              |                                                              |
+| **Thu Nov 29** |                                                              |                                                              |                                                              |
+| **Tue Dec 4**  |                                                              |                                                              |                                                              |
+| **Thu Dec 6**  |                                                              |                                                              |                                                              |
+| **Tue Dec 11** |                                                              |                                                              |                                                              |
