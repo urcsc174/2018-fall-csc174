@@ -1,0 +1,6 @@
+sttudent FTP account.txt
+************************
+Server: 	ftp.csc174.org
+Port:   	21
+Username:	students@csc174.org
+Password:	coffee1N/!18
