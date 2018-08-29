@@ -1,21 +1,31 @@
-# In-class exercise 1: Introduction to Slack
+# In-class exercise 0: Introductions and Prep
 *Due: Thursday, August 30 (today)*
 
-# Requirements
+## Class Check-in
+
+- [ ] In Blackboard, in the *Lecture Check-in* area, check-in to today's class
+
+## Introductions in Slack
 
 
-- [ ] Your assignment is to login to the CSC 174 Slack Workspace and **create a post** in the **#chatter** channel:
-  - Introduce yourself  - name, major, anticipated graduation date
-  - Make a music suggestion: a song or band/artist that would make a good "seed" for the professor's Pandora app (no angry music please!)
-   - Also, **add a reaction** (like a thumbs-up) to other students' music suggestions - in effect, vote for good suggestions
+- [ ] Create an account in our **CSC 174 Slack Workspace**
+- [ ] Find and join the **#chatter** channel, and create a post
 
-- [ ] Also, say *Hi* to at least three other students by clicking the **Reply to Thread** button and then say something nice.
+  - [ ] Introduce yourself: 
+    - Name
+    - Major
+    - Expected graduation
+    - Other affiliation or interesting fact about yourself (optional)
+  - [ ] Rate yourself (or list your accomplishments); in regard to:
 
-That's it for today.  
+    - Organizational skills (are you a very organized person or a flexible/creative person ...or both?)
+    - Graphic design skills
+    - Technical skills and/or programming abilities
 
-<hr>
+Note: it's important to share information about yourself in Slack because you will need this information when you form groups to work on projects in CSC 174.
 
-# For Next Week
+
+## For Next Week
 
 For next class, **have content prepared** to create a quick webpage that we'll mess around with later.  (You only need the content ready to go.  We'll work on putting it together next week.)
 
