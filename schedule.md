@@ -3,7 +3,7 @@ This schedule is subject to modification throughout the semester. Always check w
 
 |                | Lecture/Lab<br>(3:25 - 4:40 PM)                              | Assignment<br>(in-class and homework)                        | Notes                                                        |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Thu Aug 30** | [**Re-Introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf) | [Lab 1 Introduction to Slack](lab01-introduction-to-slack/instructions.md) | Prep content to use for in-class assignment on Tuesday, September 4 |
+| **Thu Aug 30** | [**Re-Introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf) | [Lab 0 Introduction and Prep](lab00-introductions-and-prep/instructions.md) | Prep content to use for in-class assignment on Tuesday, September 4 |
 | **Tue Sep 4**  | Web Solution Stacks                                          |                                                              |                                                              |
 | **Thu Sep 6**  | Version Control Software                                     |                                                              |                                                              |
 | **Tue Sep 11** | Information Architecture 1                                   |                                                              |                                                              |
