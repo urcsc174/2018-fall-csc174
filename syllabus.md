@@ -5,7 +5,7 @@
 - CRN: **52560**
 - Course: **CSC 174**
 - Credits: **4.0**
-- Lecture/Lab Schedule: **Tuesdays and Thursdays, 3:25 AM to 4:40 PM**
+- Lecture/Lab Schedule: **Mondays and Wednesdays, 3:25 AM to 4:40 PM**
 - Building: **Gavett Hall**
 - Room: **208**
 
