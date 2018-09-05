@@ -1,12 +1,12 @@
 # Assignment 1: Initial Personal Website
-*Due: Monday, January 29, 2018*
+*Due: Monday, September 10, 2018*
 
-The goal of this assignment is to simply apply a lot of the basic skills you learned in CSC 170.  Note: because this assignment requires use of PHP Includes, it would help to use a *localhost* during the development process.
+The goal of this assignment is to simply apply a lot of the basic skills you learned in CSC 170. 
 
 # Requirements
 
 
-- [ ] Create **a styled, four page website** using the information, previously gathered about yourself on one page, and information about your selected, *Initial Team Role* in CSC 174.
+- [ ] Create **a styled, four page website** using the information, previously gathered about yourself.
   - [ ] The HTML must be **semantically correct**, **properly structured**, and **valid** according to the [W3C HTML Validator](https://validator.w3.org/)
   - [ ] The CSS must exist in an **externally linked stylesheet** and set some basic formatting **embellishments** (fonts, colors, layout), and the CSS must be **valid** according to the to the [W3C CSS Validator](http://jigsaw.w3.org/css-validator/)
     - Note: there will be a subjective aspect to the rubric - it must look like you made an attempt to make the website look interesting (even if it looks terrible; we'll work on that later this semester)
@@ -16,7 +16,9 @@ The goal of this assignment is to simply apply a lot of the basic skills you lea
 ### PHP Includes and the Website Navigation Element
 
 - [ ] The website must use **PHP Includes** to factor-out common elements, e.g. the navigation element
-- [ ] The navigation element must **indicate which is the current page** ; and don't forget: because the navigation will be in a PHP Include, you need to use a solution to insert the *is-current* class (or whatever you're using) on the appropriate navigation element.  You can look-up any solution you want, or just you the JavaScript I provided back in CSC 170 [linked in a ZIP file, here](menu-highlighter.js.zip)
+  - Hint: you can start with plain HTML files with duplicate content (headers and footers) and factor out the duplicate content later
+- [ ] The navigation element must **indicate which is the current page**
+  - Don't forget: because the navigation will be in a PHP Include, you need to use a solution to insert the *is-current* class (or whatever you're using) on the appropriate navigation element.  You can look-up any solution you want, or just you the JavaScript I provided back in CSC 170 [linked in a ZIP file, here](menu-highlighter.js.zip)
 - [ ] The files and file system must be clean and follow industry best practices
   - [ ] No unused files
   - [ ] Files of certain types (e.g. images, CSS, includes) must be properly sorted into sub-directories
@@ -25,7 +27,7 @@ The goal of this assignment is to simply apply a lot of the basic skills you lea
 
 ## Installation
 
-- [ ] The website must be installed on the class web server in the folder named: **assignment01** (…which already exists); then create a folder with a name in the pattern of first-initial, last name, e.g. **rkostin**, (or you can make it the same as your URID), and put your website in there
+- [ ] The website must be installed on the class web server with a folder name in the pattern of first-initial, last name, e.g. **rkostin**, (or you can make it the same as your URID), and put your website in there
 
 
 ### Web Server Credentials
@@ -35,7 +37,7 @@ Everyone will use the same FTP account in this class so be careful when you're w
 ```
 FTP Server (a.k.a. Hostname): ftp.csc174.org
 FTP Port: 21
-FTP Username: students@csc174.org
+FTP Username: assignment01@csc174.org
 FTP Password: coffee1N/!18
 ```
 
