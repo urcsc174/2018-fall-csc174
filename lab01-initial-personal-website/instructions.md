@@ -3,7 +3,7 @@
 
 The goal of this assignment is to simply apply a lot of the basic skills you learned in CSC 170. 
 
-*Updated: the requirement for PHP Includes have been removed for this assignment. (8/5/2018)*
+*Updated: the requirement for PHP Includes have been removed for this assignment. (9/5/2018)*
 
 # Requirements
 

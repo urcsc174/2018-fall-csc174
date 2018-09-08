@@ -13,4 +13,5 @@ Advanced Front-end Web Design and Development
 - Previous topics
   - [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
 - Previous assignments
-  - [Lab 0 Introductions and Prep](lab00-introductions-and-prep/instructions.md) (due: in-class, Thursday, August 30) and <br>Prep content to use for in-class assignment on Tuesday, September 4
+  - [Lab 0 Introductions and Prep](lab00-introductions-and-prep/instructions.md) (due: in-class, Wednesday, August 29) and <br>Prep content to use for in-class assignment on Wednesday, September 5
+

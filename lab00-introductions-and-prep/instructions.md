@@ -1,5 +1,5 @@
 # In-class exercise 0: Introductions and Prep
-*Due: Thursday, August 30 (today)*
+*Due: Wednesday, August 29 (today)*
 
 ## Class Check-in
 
