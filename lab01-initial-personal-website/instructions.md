@@ -3,6 +3,8 @@
 
 The goal of this assignment is to simply apply a lot of the basic skills you learned in CSC 170. 
 
+*Updated: the requirement for PHP Includes have been removed for this assignment. (8/5/2018)*
+
 # Requirements
 
 
@@ -13,12 +15,7 @@ The goal of this assignment is to simply apply a lot of the basic skills you lea
     - Hint: you don't have much content; try using large fonts
   - [ ] All pages must look like they belong together, using common elements that look and work as expected (for example, a common header and common navigation element)
 
-### PHP Includes and the Website Navigation Element
-
-- [ ] The website must use **PHP Includes** to factor-out common elements, e.g. the navigation element
-  - Hint: you can start with plain HTML files with duplicate content (headers and footers) and factor out the duplicate content later
 - [ ] The navigation element must **indicate which is the current page**
-  - Don't forget: because the navigation will be in a PHP Include, you need to use a solution to insert the *is-current* class (or whatever you're using) on the appropriate navigation element.  You can look-up any solution you want, or just you the JavaScript I provided back in CSC 170 [linked in a ZIP file, here](menu-highlighter.js.zip)
 - [ ] The files and file system must be clean and follow industry best practices
   - [ ] No unused files
   - [ ] Files of certain types (e.g. images, CSS, includes) must be properly sorted into sub-directories
