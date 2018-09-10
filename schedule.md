@@ -6,7 +6,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | **Wed Aug 29** | [**Re-Introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf) | [Lab 0 Introduction and Prep](lab00-introductions-and-prep/instructions.md) | Prep content to use for in-class assignment on Tuesday, September 4 |
 | **Mon Sep 3**  | **HOLIDAY**                             |  |                                                              |
 | **Wed Sep 5**  | **CSC 170 Refresher** | [Lab 1 Initial Personal Website](lab01-initial-personal-website/instructions.md) |                                                              |
-| **Mon Sep 10** | [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf) |                                                              | Required: convert Initial Personal Website to PHP Includes and use a current menu highlighter solution (due: Wednesday) |
+| **Mon Sep 10** | [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf) | [Lab 2 PHP Includes](lab02-php-includes/instructions.md) (due: Wednesday, September 12) |  |
 | **Wed Sep 12** | Version Control Software           |                                                              |                                                              |
 | **Mon Sep 17** | information Architecture            |                                                              |                                                              |
 | **Wed Sep 19** | Principles of Page Design                 |                                                              |                                                              |
