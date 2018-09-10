@@ -8,6 +8,8 @@ The goal of this assignment is to re-factor the content in your Initial Personal
 
 - [ ] Use **PHP Includes** to factor-out common elements from your four page website and put them in external "include" files.
 - [ ] The navigation element must **indicate which is the current page** which means you'll have to use a PHP or JS solution to insert the a *class* on the appropriate menu item.
+
+  - You can look-up any solution you want, or just you the JavaScript I provided back in CSC 170 [linked in a ZIP file, here](menu-highlighter.js.zip)
 - [ ] The HTML, CSS and JS code, files and file system must be clean and follow **industry best practices and standards**
 
 ## Installation
