@@ -7,7 +7,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | **Mon Sep 3**  | **HOLIDAY**                             |  |                                                              |
 | **Wed Sep 5**  | **CSC 170 Refresher** | [Lab 1 Initial Personal Website](lab01-initial-personal-website/instructions.md) |                                                              |
 | **Mon Sep 10** | [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf) | [Lab 2 PHP Includes](lab02-php-includes/instructions.md) (due: Wednesday, September 12) |  |
-| **Wed Sep 12** | Version Control Software           |                                                              |                                                              |
+| **Wed Sep 12** | [**Version Control Software** (PDF)](04-version-control-software/04-version-control-software.pdf) |                                                              | Edit: [Initial Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a role |
 | **Mon Sep 17** | information Architecture            |                                                              |                                                              |
 | **Wed Sep 19** | Principles of Page Design                 |                                                              |                                                              |
 | **Mon Sep 24** | C.R.A.P. Principles                             |                                                              |                                                              |
