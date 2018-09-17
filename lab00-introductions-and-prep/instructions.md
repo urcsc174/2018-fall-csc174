@@ -1,4 +1,4 @@
-# In-class exercise 0: Introductions and Prep
+# Assignment 0: Introductions and Prep
 *Due: Wednesday, August 29 (today)*
 
 ## Class Check-in
