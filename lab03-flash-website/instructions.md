@@ -1,5 +1,5 @@
 # Assignment 3: "Flash" Website
-*Due: Monday, September 17, 2018 (today)*
+*Due: <s>Monday, September 17, 2018 (today)</s> Monday, September 24, 2018*
 
 **The goal** of this assignment is to work as a team to combine three students' initial personal websites into one cohesive website during the time allotted.
 
