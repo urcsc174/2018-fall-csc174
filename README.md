@@ -7,10 +7,10 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - Team Website Development: Updated Personal Websites (on Monday, September 24)
+  - Forking a Repository
 - Current assignments you should be working on
 
-  - [Lab 3 "Flash" Website](lab03-flash-website/instructions.md) (due: <s>Monday, September 17 ...same day</s> Monday, September 24)
+  - [Lab 5: Forking a Repository](lab05-forking-a-respository/instructions.md) (due: Monday, October 1 ...one week!)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a new city-team and role
 - Previous topics
 
   - Wed Sep 19: [**Information Architecture** (PDF)](05-information-architecture/05-information-architecture.pdf)
@@ -22,7 +22,7 @@ Advanced Front-end Web Design and Development
 - Previous assignments
 
   - [Lab 4: Information Architecture and Markdown](lab04-ia-and-markdown/instructions.md) (due: Wednesday, September 19 ...same day)
-  - Edit: [Initial Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a role
+  - [Lab 3 "Flash" Website](lab03-flash-website/instructions.md) (due: <s>Monday, September 17 ...same day</s> Monday, September 24)
   - [Lab 2 PHP Includes](lab02-php-includes/instructions.md) (due: Wednesday, September 12)
   - [Lab 1 Initial Personal Website](lab01-initial-personal-website/instructions.md) (due: Monday, September 10)
   - [Lab 0 Introductions and Prep](lab00-introductions-and-prep/instructions.md) (due: in-class, Wednesday, August 29) and <br>Prep content to use for in-class assignment on Wednesday, September 5
