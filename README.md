@@ -7,12 +7,13 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - [**Principles of Page Design, part 1**](06-principles-of-page-design1/principles-of-page-design.pdf) (PDF)<br>[C.R.A.P. Principles of Graphic Design (website)](https://saylordotorg.github.io/text_business-information-systems-design-an-app-for-that/s07-01-c-r-a-p-principles-of-graphic-.html)
+  - [**CSS Architecture** (PDF)](07-css-architecture/css-architecture.pdf)
 - Current assignments you should be working on
 
-  - 
+  - [Lab 6: CSS Architecture](lab06-css-architecture/instructions.md) (due: Wednesday, October 3)
 - Previous topics
 
+  - [**Principles of Page Design, part 1**](06-principles-of-page-design1/principles-of-page-design.pdf) (PDF)<br>[C.R.A.P. Principles of Graphic Design (website)](https://saylordotorg.github.io/text_business-information-systems-design-an-app-for-that/s07-01-c-r-a-p-principles-of-graphic-.html)
   - Forking a Repository - in-class lab work
   - Wed Sep 19: [**Information Architecture** (PDF)](05-information-architecture/05-information-architecture.pdf)
   - Mon Sep 17: **Working as a Team Using GitHub**
