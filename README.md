@@ -7,7 +7,7 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - [**CSS Architecture** (PDF)](07-css-architecture/css-architecture.pdf)
+  - [**CSS Architecture** (PDF)](07-css-architecture/css-architecture.pdf)<br>[Links to other resources](lab06-css-architecture/links.md)
 - Current assignments you should be working on
 
   - [Lab 6: CSS Architecture](lab06-css-architecture/instructions.md) (due: Wednesday, October 3)
