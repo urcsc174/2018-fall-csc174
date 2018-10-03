@@ -53,6 +53,8 @@ Note: the Designer needs to take direction from the IA, but only as described ab
 
 Note: an extra challenge for the designer is the two-page-ness of this website.  If you use a navigation element, how do you style the "you are here" indicator with only two menu items?  (Also, think about this: do you even need a traditional navigation element? ...it's up to you.)
 
+Also note: the "hero" for the homepage is one of your challenges.  You probably don't have a photo that makes sense at this point.  But you have a camera on your phone, right?  (Hint, hint, hint)
+
 ### Coder's Requirements
 
 The Coder's due date is the same as the due date for the overall website: **Wednesday, October 10 (by end-of-day or so)**:
