@@ -7,21 +7,23 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - [**Principles of Page Design, part 2**](10-principles-of-page-design2/z-patterns-and-f-patterns.pdf) (PDF)
+  - [**Readability** (PDF)](11-readability-typography/readability.pdf) and [**Typography** (PDF)](11-readability-typography/typography.pdf)<br>[Workflow - supplemental information (PDF)](11-readability-typography/workflow.pdf)
 - Current assignments you should be working on
 
+  - [Lab 8: Readability and Typography](lab08-readability-typography/instructions) (due: Wednesday, October 10)
   - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: Wednesday, October 10 ...one week!)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a new city-team and role
 - Previous topics
 
+  - [**Principles of Page Design, part 2** (PDF)](10-principles-of-page-design2/z-patterns-and-f-patterns.pdf)
   - [**CSS Architecture** (PDF)](09-css-architecture/css-architecture.pdf)<br>[Links to other resources](lab06-css-architecture/links.md)
-  - [**Principles of Page Design, part 1**](08-principles-of-page-design1/principles-of-page-design.pdf) (PDF)<br>[C.R.A.P. Principles of Graphic Design (website)](https://saylordotorg.github.io/text_business-information-systems-design-an-app-for-that/s07-01-c-r-a-p-principles-of-graphic-.html)
+  - [**Principles of Page Design, part 1** (PDF)](08-principles-of-page-design1/principles-of-page-design.pdf)<br>[C.R.A.P. Principles of Graphic Design (website)](https://saylordotorg.github.io/text_business-information-systems-design-an-app-for-that/s07-01-c-r-a-p-principles-of-graphic-.html)
   - Forking a Repository - in-class lab work
-  - Wed Sep 19: [**Information Architecture** (PDF)](06-information-architecture/05-information-architecture.pdf)
-  - Mon Sep 17: **Working as a Team Using GitHub**
-  - Wed Sep 12: [**Version Control Software** (PDF)](04-version-control-software/04-version-control-software.pdf)
-  - Mon Sep 10: [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf)
-  - Wed Sep 5: **CSC 170 Refresher - In-class Lab**
-  - Wed Aug 29: [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
+  - [**Information Architecture** (PDF)](06-information-architecture/05-information-architecture.pdf)
+  - **Working as a Team Using GitHub**
+  - [**Version Control Software** (PDF)](04-version-control-software/04-version-control-software.pdf)
+  - [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf)
+  - **CSC 170 Refresher - In-class Lab**
+  - [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
 - Previous assignments
 
   - [Lab 6: CSS Architecture](lab06-css-architecture/instructions.md) (due: Wednesday, October 3)
