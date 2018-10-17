@@ -7,12 +7,13 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - **Midterm Project Review**
+  - **IA and Designer Review**
 - Current assignments you should be working on
 
-  - [Midterm Project](midterm-project/instructions.md) (due: Wednesday, October 4)
+  - [Midterm Project](midterm-project/instructions.md) (due: Wednesday, October 24)
 - Previous topics
 
+  - **Midterm Project Review**
   - [**Readability** (PDF)](11-readability-typography/readability.pdf) and [**Typography** (PDF)](11-readability-typography/typography.pdf)<br>[Workflow - supplemental information (PDF)](11-readability-typography/workflow.pdf)
   - [**Principles of Page Design, part 2** (PDF)](10-principles-of-page-design2/z-patterns-and-f-patterns.pdf)
   - [**CSS Architecture** (PDF)](09-css-architecture/css-architecture.pdf)<br>[Links to other resources](lab06-css-architecture/links.md)
