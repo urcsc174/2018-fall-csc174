@@ -8,7 +8,7 @@ Advanced Front-end Web Design and Development
 
 - Current topic 
 
-  - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)
+  - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)<br>Download [PHP Starter Scripts (ZIP)](14-introduction-to-php-and-mysql/mysql-scripts.zip)
 - Current assignments you should be working on
 
   - In-Class Database Basics (participation credit)
