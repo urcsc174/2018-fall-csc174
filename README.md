@@ -6,7 +6,7 @@ Advanced Front-end Web Design and Development
 
 <hr>
 
-- Current topic
+- Current topic 
 
   - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)
 - Current assignments you should be working on
