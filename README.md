@@ -7,14 +7,16 @@ Advanced Front-end Web Design and Development
 <hr>
 
 - Current topic
-  - **IA and Designer Review**
+
+  - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)
 - Current assignments you should be working on
 
+  - In-Class Database Basics (participation credit)
   - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: <s>Wednesday, October 10</s> updated: October 24)
   - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)
 - Previous topics
 
-  - **Midterm Project Review**
+  - **IA and Designer Review** and **Midterm Project Review**
   - [**Readability** (PDF)](11-readability-typography/readability.pdf) and [**Typography** (PDF)](11-readability-typography/typography.pdf)<br>[Workflow - supplemental information (PDF)](11-readability-typography/workflow.pdf)
   - [**Principles of Page Design, part 2** (PDF)](10-principles-of-page-design2/z-patterns-and-f-patterns.pdf)
   - [**CSS Architecture** (PDF)](09-css-architecture/css-architecture.pdf)<br>[Links to other resources](lab06-css-architecture/links.md)
