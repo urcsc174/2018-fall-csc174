@@ -1,6 +1,8 @@
 # Lab 7: Odd Student Out
 
-*Due date for the **Information Architect**'s content and intent: **Friday, October 5, 2018***<br>*Due date for the final website: **Wednesday, October 10, 2018***
+<s>*Due date for the **Information Architect**'s content and intent: **Friday, October 5, 2018***<br>*Due date for the final website: **Wednesday, October 10, 2018***</s>
+
+*Updated due date: October 24*
 
 The goal of this assignment is to build a completely new, two-page website that uses everything new we've learned so far in CSC 174, plus all the best practices and standards from CSC 170.
 

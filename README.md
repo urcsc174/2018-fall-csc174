@@ -10,7 +10,8 @@ Advanced Front-end Web Design and Development
   - **IA and Designer Review**
 - Current assignments you should be working on
 
-  - [Midterm Project](midterm-project/instructions.md) (due: Wednesday, October 24)
+  - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: <s>Wednesday, October 10</s> updated: October 24)
+  - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)
 - Previous topics
 
   - **Midterm Project Review**
@@ -28,7 +29,7 @@ Advanced Front-end Web Design and Development
 - Previous assignments
 
   - [Lab 8: Readability and Typography](lab08-readability-typography/instructions) (due: Wednesday, October 10)
-  - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: Wednesday, October 10 ...one week!)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a new city-team and role
+  - <s>[Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: Wednesday, October 10 ...one week!)</s><br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a new city-team and role
   - [Lab 6: CSS Architecture](lab06-css-architecture/instructions.md) (due: Wednesday, October 3)
   - [Lab 5: Forking a Repository](lab05-forking-a-respository/instructions.md) (due: Monday, October 1 ...one week!)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a new city-team and role
   - [Lab 4: Information Architecture and Markdown](lab04-ia-and-markdown/instructions.md) (due: Wednesday, September 19 ...same day)
