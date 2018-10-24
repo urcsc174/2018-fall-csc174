@@ -8,6 +8,7 @@ Advanced Front-end Web Design and Development
 
 - Current topic 
 
+  - [PHP and MySQL part 2](15-php-and-mysql2/html forms and databases.pdf)<br>[And some files (ZIP)](15-php-and-mysql2/four-functions.zip)
   - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)<br>Download [PHP Starter Scripts (ZIP)](14-introduction-to-php-and-mysql/mysql-scripts.zip)
 - Current assignments you should be working on
 
