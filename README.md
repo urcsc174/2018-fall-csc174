@@ -8,15 +8,16 @@ Advanced Front-end Web Design and Development
 
 - Current topic 
 
-  - [PHP and MySQL part 2](15-php-and-mysql2/html forms and databases.pdf)<br>[And some files (ZIP)](15-php-and-mysql2/four-functions.zip)
-  - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)<br>Download [PHP Starter Scripts (ZIP)](14-introduction-to-php-and-mysql/mysql-scripts.zip)
+  - **Four DB Functions**<br>[Sample files 2 (ZIP)](16-four-db-functions/samples2.zip)<br>[Four Functions, updated (ZIP)](16-four-db-functions/four-functions.zip)
 - Current assignments you should be working on
 
-  - In-Class Database Basics (participation credit)
-  - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: <s>Wednesday, October 10</s> updated: October 24)
-  - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)
+  - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
+
+
 - Previous topics
 
+  - [**PHP and MySQL part 2** (PDF)](15-php-and-mysql2/html-forms-and-databases.pdf)<br>[Sample files (ZIP)](15-php-and-mysql2/samples.zip)
+  - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)<br>Download [PHP Starter Scripts (ZIP)](14-introduction-to-php-and-mysql/mysql-scripts.zip)
   - **IA and Designer Review** and **Midterm Project Review**
   - [**Readability** (PDF)](11-readability-typography/readability.pdf) and [**Typography** (PDF)](11-readability-typography/typography.pdf)<br>[Workflow - supplemental information (PDF)](11-readability-typography/workflow.pdf)
   - [**Principles of Page Design, part 2** (PDF)](10-principles-of-page-design2/z-patterns-and-f-patterns.pdf)
@@ -29,8 +30,11 @@ Advanced Front-end Web Design and Development
   - [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf)
   - **CSC 170 Refresher - In-class Lab**
   - [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
+
 - Previous assignments
 
+  - In-Class Database Basics (participation credit)
+  - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: <s>Wednesday, October 10</s> updated: October 24)
   - [Lab 8: Readability and Typography](lab08-readability-typography/instructions) (due: Wednesday, October 10)
   - <s>[Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: Wednesday, October 10 ...one week!)</s><br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...move your name/email to a team and a new city-team and role
   - [Lab 6: CSS Architecture](lab06-css-architecture/instructions.md) (due: Wednesday, October 3)
