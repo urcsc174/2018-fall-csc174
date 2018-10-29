@@ -61,8 +61,8 @@ For each assignment, a grading rubric is provided. Rubrics will inform students 
 
 | Activity                                                     | Weight of the final grade |
 | ------------------------------------------------------------ | ------------------------- |
-| **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **35%**                   |
-| **Midterm Practical (project)**<br>There is one project (basically, a big assignment) near the middle of the semester which tests students' abilities at that point in the semester. | **10%**                   |
+| **Participation**<br>There are in-class exercises for which students are graded as *participation*.  Many of the exercises are pass/fail.  Each counts equally toward the total of 30%. | **30%**                   |
+| **Midterm Practical (project)**<br>There is one project (basically, a big assignment) near the middle of the semester which tests students' abilities at that point in the semester. | **15%**                   |
 | **Assignments**<br>There are assignments at various times in the semester the discretion of the instructor.  Each assignment counts equally toward the total of 55%<br>**Lowest Grade Drop**<br>Students' lowest assignment grade during the semester will be dropped, i.e. not included in the 55% calculation<br>**Optional Final Assignment**<br>There is one assignment offered at the end of the semester that allows students to increase their grade by doing an extra assignment. If the student chooses to do it, it will count toward their Assignment grade, i.e., included in the 55% calculation | **55%**                   |
 
 ## Assignments and In-class Exercises
