@@ -8,14 +8,15 @@ Advanced Front-end Web Design and Development
 
 - Current topic 
 
-  - **Four DB Functions**<br>[Sample files 2 (ZIP)](16-four-db-functions/samples2.zip)<br>[Four Functions, updated (ZIP)](16-four-db-functions/four-functions.zip)
+  - **Remote Databases**<br>[Sample files 2 (ZIP)](lab09-remote-databases/starter-files.zip)
+
 - Current assignments you should be working on
 
-  - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
-
+  - [Lab 9: Remote Databases](lab09-remote-databases/instructions.md) (due: Wednesday, October 31 ...today! Participation credit)
 
 - Previous topics
 
+  - **Four DB Functions**<br>[Sample files 2 (ZIP)](16-four-db-functions/samples2.zip)<br>[Four Functions, updated (ZIP)](16-four-db-functions/four-functions.zip)
   - [**PHP and MySQL part 2** (PDF)](15-php-and-mysql2/html-forms-and-databases.pdf)<br>[Sample files (ZIP)](15-php-and-mysql2/samples.zip)
   - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)<br>Download [PHP Starter Scripts (ZIP)](14-introduction-to-php-and-mysql/mysql-scripts.zip)
   - **IA and Designer Review** and **Midterm Project Review**
@@ -33,6 +34,7 @@ Advanced Front-end Web Design and Development
 
 - Previous assignments
 
+  - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
   - In-Class Database Basics (participation credit)
   - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: <s>Wednesday, October 10</s> updated: October 24)
   - [Lab 8: Readability and Typography](lab08-readability-typography/instructions) (due: Wednesday, October 10)
