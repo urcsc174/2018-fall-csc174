@@ -80,7 +80,7 @@ Each team will use the same FTP account. Be careful *not* to disturb other teams
 FTP Server (a.k.a. Hostname): ftp.csc174.org
 FTP Port: 21
 FTP Username: assignment07@csc174.org
-FTP Password: coffee1N/!18
+FTP Password: [removed - DM the prof if you need it again]
 ```
 
 *Notice that the username is different from last time:* assignment**07**@csc174.org

@@ -18,7 +18,7 @@ Note: this lab assignment is counted toward your *participation* grade.
 - Edit the **testmysql-remote.php** file using the database credentials below:
   - host: **66.147.242.186**
   - database user: **urcscon3_lab09**
-  - password: **coffee1N/!**
+  - password: [removed - DM the prof if you need it again]
   - database name: **urcscon3_lab09**
 - Test the connection in your localhost
   - If the connection doesn't work, login to Bluehost and jump to the *Check your Access* section, below
@@ -29,7 +29,7 @@ Note: this lab assignment is counted toward your *participation* grade.
 
   Username: **csc174.org**
 
-  Password: **coffee1N/!**
+  Password: [removed - DM the prof if you need it again]
 
 - Go to the **cPanel**,  **phpMyAdmin**
 - Click on the database, **urcscon3_lab09**

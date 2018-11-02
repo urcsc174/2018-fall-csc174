@@ -88,7 +88,7 @@ Your midterm exam must be installed on the class webserver on or before the due 
   FTP Server (a.k.a. Hostname): ftp.csc174.org
   FTP Port: 21
   FTP Username: midterm@csc174.org
-  FTP Password: coffee1N/!18
+  FTP Password: [removed - DM the prof if you need it again]
   ```
 
   *As always, notice the username - that's the difference*

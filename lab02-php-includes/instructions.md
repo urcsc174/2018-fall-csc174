@@ -25,7 +25,7 @@ Everyone will use the same FTP account in this class so be careful when you're w
 FTP Server (a.k.a. Hostname): ftp.csc174.org
 FTP Port: 21
 FTP Username: assignment02@csc174.org
-FTP Password: coffee1N/!18
+FTP Password: [removed - DM the prof if you need it again]
 ```
 *Notice that the username is different!*
 
