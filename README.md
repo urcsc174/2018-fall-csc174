@@ -8,14 +8,14 @@ Advanced Front-end Web Design and Development
 
 - Current topic 
 
-  - **Remote Databases**<br>[Sample files 2 (ZIP)](lab09-remote-databases/starter-files.zip)
+  - [**Content Management Systems** (PDF)](18-content-management-systems/content-management-systems.pdf)
+
 
 - Current assignments you should be working on
 
-  - [Lab 9: Remote Databases](lab09-remote-databases/instructions.md) (due: Wednesday, October 31 ...today! Participation credit)
-
+  - Install WordPress on localhost (due: Monday, November 5 …today! Participation credit)
 - Previous topics
-
+  - **Remote Databases**<br>[Sample files 2 (ZIP)](lab09-remote-databases/starter-files.zip)
   - **Four DB Functions**<br>[Sample files 2 (ZIP)](16-four-db-functions/samples2.zip)<br>[Four Functions, updated (ZIP)](16-four-db-functions/four-functions.zip)
   - [**PHP and MySQL part 2** (PDF)](15-php-and-mysql2/html-forms-and-databases.pdf)<br>[Sample files (ZIP)](15-php-and-mysql2/samples.zip)
   - [**Introduction to PHP and MySQL, part 1** (PDF)](14-introduction-to-php-and-mysql/php-and-mysql.pdf)<br>Download [PHP Starter Scripts (ZIP)](14-introduction-to-php-and-mysql/mysql-scripts.zip)
@@ -31,9 +31,9 @@ Advanced Front-end Web Design and Development
   - [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf)
   - **CSC 170 Refresher - In-class Lab**
   - [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
-
 - Previous assignments
 
+  - [Lab 9: Remote Databases](lab09-remote-databases/instructions.md) (due: Wednesday, October 31)
   - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
   - In-Class Database Basics (participation credit)
   - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: <s>Wednesday, October 10</s> updated: October 24)
