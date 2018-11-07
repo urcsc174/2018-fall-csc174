@@ -8,13 +8,15 @@ Advanced Front-end Web Design and Development
 
 - Current topic 
 
-  - [**Content Management Systems** (PDF)](18-content-management-systems/content-management-systems.pdf)
+  - **CMS Construction**
 
 
 - Current assignments you should be working on
 
-  - Install WordPress on localhost (due: Monday, November 5 …today! Participation credit)
+  - [Lab 10: CMS Construction](lab10-cms-construction/instructions.md) (due: Wednesday, November 14)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...copy your name/email to a team and a new role
 - Previous topics
+
+  - [**Content Management Systems** (PDF)](18-content-management-systems/content-management-systems.pdf)
   - **Remote Databases**<br>[Sample files 2 (ZIP)](lab09-remote-databases/starter-files.zip)
   - **Four DB Functions**<br>[Sample files 2 (ZIP)](16-four-db-functions/samples2.zip)<br>[Four Functions, updated (ZIP)](16-four-db-functions/four-functions.zip)
   - [**PHP and MySQL part 2** (PDF)](15-php-and-mysql2/html-forms-and-databases.pdf)<br>[Sample files (ZIP)](15-php-and-mysql2/samples.zip)
@@ -33,6 +35,7 @@ Advanced Front-end Web Design and Development
   - [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
 - Previous assignments
 
+  - Install WordPress on localhost (due: Monday, November 5 …today! Participation credit)
   - [Lab 9: Remote Databases](lab09-remote-databases/instructions.md) (due: Wednesday, October 31)
   - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
   - In-Class Database Basics (participation credit)
