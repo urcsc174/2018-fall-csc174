@@ -1,3 +1,5 @@
+
+
 # Lab 10: CMS Construction
 
 *Due: Wednesday, November 14, 2018 (one week)* 
@@ -13,12 +15,39 @@ _If the Information Architect and/or Designer are concerned that the Coder is no
 The coder is responsible for doing the following:
 
 - [ ] Stand-up a database on the class web server (name the database after your city-team)
-- [ ] Install WordPress on your localhost (using the remote database - not local)
-- [ ] Create user accounts in WordPress for the other members of the team
-- [ ] Create a repository in Github and push the local WordPress website there
-- [ ] Add the team members to the repository as collaborators
 
-Note: the Coder is responsible for making sure the team members are able to sync the WordPress website from the repo and get it running on their localhost.  (Any problems, ask the professor for help.)
+*The following are new steps, added after the lecture on Wednesday, November 7...*
+
+- [ ] FTP into the *assignment10* directory and then create your city-team folder
+
+  ```
+  FTP Server (a.k.a. Hostname): ftp.csc174.org
+  FTP Port: 21
+  FTP Username: assignment10@csc174.org
+  FTP Password: [the same password]
+  ```
+
+- [ ] Copy a fresh set of WordPress installation files to your new folder in your *assignment10* folder (on the class web server) Sorry, this may take a loooong time!
+
+- [ ] In a web browser, go to `csc174.org/assignment10/yourCityTeam` and do the setup there - REMEMBER to set the host as `localhost`
+
+- [ ] After you setup _your_ account information (which can have a username that uses _your_ name and your fav password), login to your WordPress site
+
+- [ ] Go to the USERS section on the left to create two new user WordPress accounts (one for each of your team members)
+
+  - Enter in a **username** (it can be their first initial and last name)
+  - Enter their **email**
+  - Make sure the checkbox for "Send the new user and email..." **IS** checked
+  - Set the Role to: **Administrator
+
+
+
+- [ ] <s>Install WordPress on your localhost (using the remote database - not local)</s>
+- [ ] <s>Create user accounts in WordPress for the other members of the team</s>
+- [ ] <s>Create a repository in Github and push the local WordPress website there</s>
+- [ ] <s>Add the team members to the repository as collaborators</s>
+
+<s>Note: the Coder is responsible for making sure the team members are able to sync the WordPress website from the repo and get it running on their localhost. </s> (Any problems, ask the professor for help.)
 
 And then, later...
 
@@ -27,7 +56,8 @@ And then, later...
   - As always: file and folder naming conventions; appropriate file sizes (especially images); validation within reason, and general execution and operation of the website
   - HOWEVER (also as always): the Coder is not responsible for fixing errors/problems caused by the framework (WordPress), its plugins and/or themes.
 
-Also, since this website will *not* be used as a blog, the Coder is responsible for turning off *all* comments and comment related functions in the system.  
+- [ ] Also, since this website will *not* be used as a blog, the Coder is responsible for turning off *all* comments and comment related functions in the system.  
+
 
 ## Information Architect Responsibilities
 
@@ -67,26 +97,7 @@ The Designer needs to:
 
 Note: the Designer is responsible for the entire presentation of the content on every page of the website - not the selection of the content nor the technical operation of it.
 
-## Installation
 
-More coder responsibilities:
-
-- [ ] The website must be installed on the class web server; create a folder named after your city-team and install your website there
-- [ ] IMPORTANT: when the website is moved to the production web server, the "host" needs to be changed from `66.147.242.186` to `localhost`
-  - ...even though that doesn't make sense!  The professor will explain why.
-
-### Web Server Credentials
-
-Each team will use the same FTP account. Be careful *not* to disturb other teams' files.
-
-```
-FTP Server (a.k.a. Hostname): ftp.csc174.org
-FTP Port: 21
-FTP Username: assignment10@csc174.org
-FTP Password: [the same password]
-```
-
-*Notice that the username is different from last time:* assignment**10**@csc174.org
 
 ## Submit the Assignment
 
