@@ -110,6 +110,6 @@ Note: even though you worked as a team, everyone will be graded as an individual
   - **Your city-team name**
   - A list of **everyone's name** in your team (including your own) **and their role** (IA, designer, or coder)
   - A link to the **website**
-  - A link to the **repository**
+  - <s>A link to the **repository**</s>
 
   *NOTE: in Blackboard, do not write the required information in the comments section.  Use the "Write Submission" area*
