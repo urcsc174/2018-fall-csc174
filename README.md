@@ -8,14 +8,14 @@ Advanced Front-end Web Design and Development
 
 - Current topic 
 
-  - [**More about CMSs** (PDF)](20-persistent-state/content-management-systems-contd.pdf)<br>[**Persistent State** (PDF)](20-persistent-state/persistent-state.pdf)
-
+  - **Persistent State, Part 2**
 
 - Current assignments you should be working on
 
-  - [Lab 10: CMS Construction](lab10-cms-construction/instructions.md) (due: Wednesday, November 14)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...copy your name/email to a team and a new role
-- Previous topics
+  - [Lab 11: Login System](lab11-login-system/instructions.md) (due: Wednesday, November 14)
 
+- Previous topics
+  - [**More about CMSs** (PDF)](20-persistent-state/content-management-systems-contd.pdf)<br>[**Persistent State** (PDF)](20-persistent-state/persistent-state.pdf)
   - **CMS Construction** (in-class exercises)
   - [**Content Management Systems** (PDF)](18-content-management-systems/content-management-systems.pdf)
   - **Remote Databases**<br>[Sample files 2 (ZIP)](lab09-remote-databases/starter-files.zip)
@@ -34,9 +34,9 @@ Advanced Front-end Web Design and Development
   - [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf)
   - **CSC 170 Refresher - In-class Lab**
   - [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
-- Previous assignments
 
-  - [Lab 10: CMS Construction](lab10-cms-construction/instructions.md) (due: Wednesday, November 14)
+- Previous assignments
+  - [Lab 10: CMS Construction](lab10-cms-construction/instructions.md) (due: Wednesday, November 14)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...copy your name/email to a team and a new role
   - Install WordPress on localhost (due: Monday, November 5 …today! Participation credit)
   - [Lab 9: Remote Databases](lab09-remote-databases/instructions.md) (due: Wednesday, October 31)
   - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
