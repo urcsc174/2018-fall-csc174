@@ -6,7 +6,16 @@ Advanced Front-end Web Design and Development
 
 <hr>
 
-- Current topic 
+- Current topic
+
+  - [**Editable HTML Tables** (PDF, one slide)](23-editable-html-tables/editable-html-tables.pdf)
+
+- Current assignments you should be working on
+
+  - [Lab 12: Editable HTML Tables](lab12-editable-html-tables/instructions.md) (due: Monday, November 26)
+  - [Lab 13: User Survey Website](lab13-user-survey-website/instructions.md) (due: Wednesday, December 10)
+
+- Previous topics
 
   - **Master Class**
     - [Web developer roadmap (github page)](https://github.com/kamranahmedse/developer-roadmap)
@@ -19,11 +28,6 @@ Advanced Front-end Web Design and Development
     - [Newsletter: CSS Tricks (website)](https://css-tricks.com/)
     - [Newsletter: Smashing Magazine (website)](https://www.smashingmagazine.com/)
     - [Newsletter: CSS Weekly (website)](https://css-weekly.com/)
-- Current assignments you should be working on
-
-  - Eating turkey
-- Previous topics
-
   - **Persistent State, Part 2**
   - [**More about CMSs** (PDF)](20-persistent-state/content-management-systems-contd.pdf)<br>[**Persistent State** (PDF)](20-persistent-state/persistent-state.pdf)
   - **CMS Construction** (in-class exercises)
@@ -44,6 +48,8 @@ Advanced Front-end Web Design and Development
   - [**Web Solution Stacks** (PDF)](03-web-solution-stacks/03-web-solution-stacks.pdf)
   - **CSC 170 Refresher - In-class Lab**
   - [**Re-introduction to the Industry** (PDF)](01-reintroduction-to-the-industry/01-introduction-to-the-industry.pdf)
+
+
 - Previous assignments
 
   - [Lab 11: Login System](lab11-login-system/instructions.md) (due: Wednesday, November 14)
