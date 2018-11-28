@@ -8,15 +8,14 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - [**Editable HTML Tables** (PDF, one slide)](23-editable-html-tables/editable-html-tables.pdf)
-
+  - [**Review Final Project** (PDF, one slide)](24-review-final-project/optional-final-project.pdf)
 - Current assignments you should be working on
 
-  - [Lab 12: Editable HTML Tables](lab12-editable-html-tables/instructions.md) (due: Monday, November 26)
+  - [Lab 12: Editable HTML Tables](lab12-editable-html-tables/instructions.md) (due: <s>Monday</s> Wed, November <s>26</s> 28)
   - [Lab 13: User Survey Website](lab13-user-survey-website/instructions.md) (due: Wednesday, December 10)
-
 - Previous topics
 
+  - [**Editable HTML Tables** (PDF, one slide)](23-editable-html-tables/editable-html-tables.pdf)
   - **Master Class**
     - [Web developer roadmap (github page)](https://github.com/kamranahmedse/developer-roadmap)
     - [Long Scrolly Webpage with Sections (ZIP)](22-master-class/long-scrolly-with-sections.zip)
@@ -56,7 +55,7 @@ Advanced Front-end Web Design and Development
   - [Lab 10: CMS Construction](lab10-cms-construction/instructions.md) (due: Wednesday, November 14)<br>Also: edit the Google Sheet: [Teams and Roles](https://docs.google.com/spreadsheets/d/1gXQP-1Rmra6w3PH9GzKOG9Y8-VlKk-DjlCFYFQHo0MM/edit#gid=493379955) ...copy your name/email to a team and a new role
   - Install WordPress on localhost (due: Monday, November 5 …today! Participation credit)
   - [Lab 9: Remote Databases](lab09-remote-databases/instructions.md) (due: Wednesday, October 31)
-  - [Midterm Project](midterm-project/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
+  - [Midterm Project](project-midterm/instructions.md) (due: <s>Wednesday, October 24</s> updated: Wednesday, October 31)<br>**NEW:** [z-pattern template (ZIP)](midterm-project/z-pattern-template.zip)
   - In-Class Database Basics (participation credit)
   - [Lab 7: Odd Student Out](lab07-odd-student-out/instructions.md) (due: <s>Wednesday, October 10</s> updated: October 24)
   - [Lab 8: Readability and Typography](lab08-readability-typography/instructions) (due: Wednesday, October 10)
