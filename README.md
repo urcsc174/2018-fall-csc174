@@ -8,13 +8,26 @@ Advanced Front-end Web Design and Development
 
 - Current topic
 
-  - **Lab 13 Review** ([Provide feedback (Google Doc)](https://docs.google.com/document/d/1R3kkIpn9tunYhR4p_hLqwZMNnKH7rYiR_oZ1ZoCCOCQ/edit#heading=h.eccg8gq3u0sr))
+  - **Final Project Review**
+
 - Current assignments you should be working on
 
+  - Optional Final Assignment:
+    1. [IA only](project-final/instructions_assignment-1.md)
+    2. [Designer only](project-final/instructions_assignment-2.md)
+    3. [Coder only](project-final/instructions_assignment-3.md)
+    4. [IA and Designer](project-final/instructions_assignment-4.md)
+    5. [IA and Coder](project-final/instructions_assignment-5.md)
+    6. [Designer and Coder](project-final/instructions_assignment-6.md)
+    7. [IA, Designer, and Coder](project-final/instructions_assignment-7.md)
+
   - [Lab 12: Editable HTML Tables](lab12-editable-html-tables/instructions.md) (due: <s>Monday</s> Wed, November <s>26</s> 28)
+
   - [Lab 13: User Survey Website](lab13-user-survey-website/instructions.md) (due: Wednesday, December 10)
+
 - Previous topics
 
+  - **Lab 13 Review** ([Provide feedback (Google Doc)](https://docs.google.com/document/d/1R3kkIpn9tunYhR4p_hLqwZMNnKH7rYiR_oZ1ZoCCOCQ/edit#heading=h.eccg8gq3u0sr))
   - [**Review Final Project** (PDF, one slide)](24-review-final-project/optional-final-project.pdf)
   - [**Editable HTML Tables** (PDF, one slide)](23-editable-html-tables/editable-html-tables.pdf)
   - **Master Class**

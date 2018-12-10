@@ -1,6 +1,6 @@
 # CSC 174  Optional Final Assignment 1: Information Architect
 
-*Due: Friday, December 21, 2018 (last day of exam week)*
+*Due: Friday, December 21 2018 (last day of exam week)*
 
 This is an **optional assignment**, only required if you need to do, or re-do the team role:
 

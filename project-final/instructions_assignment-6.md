@@ -1,14 +1,14 @@
-# CSC 174  Optional Final Assignment 6: <br>Design Artist
+# CSC 174  Optional Final Assignment 6: <br>Design Artist, and Technical Coder
 
-*Due: Friday, May 11, 2018 (last day of exam week)*
+*Due: Friday, December 21 2018 (last day of exam week)*
 
-This is an **optional assignment**, only required if you need to do, or re-do the team role:
+This is an **optional assignment**, only required if you need to do, or re-do the team roles:
 
-- **Design Artist**, only
-- but *not* Technical Coder
-- and *not* Information Architect
+- **Design Artist**, and 
+- **Technical Coder**
+- but *not* Information Architect
 
-For this assignment you need to take an existing Information Architecture, and then create the presentation layer (styles).  You do not need to create the behavior layer (scripts).
+For this assignment you need to take an existing Information Architecture, create the presentation layer (styles), and then add the behavior layer which includes use of a database.
 
 ## Step 1: Get the Information Architecture
 
@@ -16,7 +16,7 @@ The professor will provide you with a set of HTML files and set of instructions 
 
 - [ ] Send a DM in Slack to the professor.  Say that you want to do *"Optional Final Assignment 6."*
 
-The professor will reply with a ZIP file that contains the files around which you will need to write your styles.
+The professor will reply with a ZIP file that contains the files around which you will need to write your styles and program the interactivity.
 
 ## Step 2: Create the Presentation Layer
 
@@ -40,12 +40,23 @@ The professor will reply with a ZIP file that contains the files around which yo
 
   - Note: if you use a CSS Framework, you still need to demonstrate your understanding of CSS Architecture
 
+- [ ] Style the other content (contact form, user login, admin page(s)) in a logical way that makes sure those pages look like they belong to the same website (architecture).
 
 
-## Step 3: Turn it in
+## Step 3: Install the Behavior Layer
+
+- [ ] Using your localhost, create a **MySQL database** for powering the HTML forms using **PHP**
+  - One HTML form for the **Contact Form**
+  - One HTML form for the **User Account Creation** process 
+  - One HTML form for the the **User Login** Process
+  - As many HTML forms and PHP scripts as necessary to enable the **four database functions** (described earlier) in the administration area
+- [ ] Ensuring that the entire website meets **web standards** and follows **best practices**
+
+## Step 4: Turn it in
 
 Do **not** upload your files to the class webserver or share your files in any way.  
 
-- [ ] ZIP (compress) your files (HTML, images only)
+- Export your MySQL database on your localhost to a file named **export.sql**
 
-- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 6** on or before the due date.
+- [ ] ZIP (compress) all your files (including the .sql file) into a single ZIP file
+- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 4** on or before the due date.
