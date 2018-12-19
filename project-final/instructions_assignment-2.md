@@ -48,4 +48,4 @@ Do **not** upload your files to the class webserver or share your files in any w
 
 - [ ] ZIP (compress) your files (HTML, images only)
 
-- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 6** on or before the due date.
+- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 2** on or before the due date.

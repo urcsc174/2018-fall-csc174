@@ -75,4 +75,4 @@ Do **not** upload your files to the class webserver or share your files in any w
 
 - [ ] ZIP (compress) your files (HTML, CSS, image files only)
   - Please *downsample* your image files if necessary.  Do not send files over 1MB.)
-- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 2** on or before the due date.
+- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 4** on or before the due date.

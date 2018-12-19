@@ -34,4 +34,4 @@ Do **not** upload your files to the class webserver or share your files in any w
 - Export your MySQL database on your localhost to a file named **export.sql**
 
 - [ ] ZIP (compress) all your files (including the .sql file) into a single ZIP file
-- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 5** on or before the due date.
+- [ ] Upload your ZIP'd file to the assignment in Blackboard titled: **Final Assignment 3** on or before the due date.
